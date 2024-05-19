@@ -47,7 +47,7 @@ Nous nous réservons le droit de mettre à jour notre Politique de Confidentiali
 
 # Contactez-nous
 
-Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter à [Votre adresse e-mail].
+Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter à [contact.feurbot@gmailcom].
 
 En utilisant notre Service, vous consentez à notre Politique de Confidentialité.
 
