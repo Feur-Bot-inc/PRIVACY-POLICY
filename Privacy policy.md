@@ -1,56 +1,29 @@
 
-# Politique de Confidentialité de Feur Bot
+# Feur Bot Privacy Policy
 
 
-__Feur Bot inc__ exploite le bot Discord Feur Bot.
+__Feur Bot inc__ operates the bot Discord Feur Bot.
 
-Cette page vous informe de nos politiques concernant la collecte, l'utilisation et la divulgation des données personnelles lorsque vous utilisez notre Service et des choix que vous avez associés à ces données. 
+This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
-Nous utilisons vos données pour fournir et améliorer le Service. En utilisant le Service, vous acceptez la collecte et l'utilisation d'informations conformément à cette politique. Sauf indication contraire dans cette Politique de Confidentialité, les termes utilisés dans cette Politique de Confidentialité ont les mêmes significations que dans nos Conditions Générales.
+We use your information to provide and improve the Service. By using the Service, you consent to the collection and use of information in accordance with this policy. Unless otherwise specified in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-# Collecte et Utilisation des Informations
+# Collection and Use of Information
 
-## Données Collectées
+## Data Collection
 
-Nous ne collectons aucune information personnelle identifiable sur les utilisateurs de Feur Bot. Cependant, pour que le bot puisse fonctionner, il doit lire les messages envoyés sur le serveur Discord où il est ajouté.
+We do not collect any personally identifiable information about Feur Bot users. However, in order for the bot to function, it must read messages sent to the Discord server where it is added.
 
-## Utilisation des Données
+## Data usage
 
-Feur Bot utilise les messages qu'il lit pour fournir les fonctionnalités suivantes :
-- Répondre automatiquement aux messages contenant "quoi" par "feur".
-- Envoyer des pièces jointes en réponse à des messages spécifiques comme "quoicoubeh".
+Feur Bot uses the messages it reads to provide the following functionality:
+- Automatically reply to messages containing “what” with “feur”.
+- Send attachments in response to specific messages such as “quoicoubeh”.
 
-Ces messages sont traités en temps réel et ne sont pas stockés par nous. Aucune information personnelle n'est collectée, stockée ou partagée par Feur Bot.
+These messages are processed in real time and are not stored by us. No personal information is collected, stored or shared by Feur Bot.
 
-# Sécurité des Données
+# Data Security
 
-La sécurité de vos données est importante pour nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet, ni méthode de stockage électronique n'est 100% sécurisée. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos données personnelles, nous ne pouvons garantir leur sécurité absolue.
+The security of your data is important to us.
 
-# Divulgation de Données
-
-## Exigences Légales
-
-Nous pouvons divulguer vos informations personnelles si cela est requis par la loi ou si nous pensons de bonne foi qu'une telle action est nécessaire pour :
-- Se conformer à une obligation légale
-- Protéger et défendre les droits ou la propriété de [Votre Nom ou Nom de l'entreprise]
-- Prévenir ou enquêter sur de possibles actes répréhensibles en relation avec le Service
-- Protéger la sécurité personnelle des utilisateurs du Service ou du public
-- Se protéger contre la responsabilité juridique
-
-# Liens vers d'autres Sites
-
-Notre Service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par nous. Par conséquent, nous vous conseillons vivement de consulter la politique de confidentialité de ces sites web. Nous n'avons aucun contrôle sur ces sites et n'assumons aucune responsabilité pour leurs politiques de confidentialité.
-
-# Modifications de cette Politique de Confidentialité
-
-Nous nous réservons le droit de mettre à jour notre Politique de Confidentialité de temps à autre. Nous vous informerons de toute modification en publiant la nouvelle Politique de Confidentialité sur cette page. Il vous est conseillé de consulter cette Politique de Confidentialité périodiquement pour prendre connaissance de toute modification. Les modifications à cette Politique de Confidentialité sont effectives lorsqu'elles sont publiées sur cette page.
-
-# Contactez-nous
-
-Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter à [contact.feurbot@gmailcom].
-
-En utilisant notre Service, vous consentez à notre Politique de Confidentialité.
-
----
-
-N'oubliez pas de remplacer les éléments entre crochets par vos propres informations. Assurez-vous également d'adapter cette politique de confidentialité à votre utilisation spécifique de Feur Bot et de respecter toutes les lois et réglementations applicables en matière de confidentialité des données.
+Translated with DeepL.com (free version)
