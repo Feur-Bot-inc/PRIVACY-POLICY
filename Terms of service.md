@@ -1,43 +1,50 @@
+# Feur Bot Privacy Policy
 
+__Feur Bot inc__ operates the Discord bot Feur Bot.
 
-# Conditions d'Utilisation de Feur Bot
+This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
+# Information Collection and Use
 
-Veuillez lire attentivement ces conditions d'utilisation ("Conditions", "Conditions d'Utilisation") avant d'utiliser le bot Discord Feur Bot exploité par Feut Bot .inc .
+## Data Collected
 
-Votre accès et utilisation du Service sont conditionnés à votre acceptation et votre respect de ces Conditions. Ces Conditions s'appliquent à tous les visiteurs, utilisateurs et autres personnes qui accèdent ou utilisent le Service.
+We do not collect any personally identifiable information about Feur Bot users. However, in order for the bot to function, it must read messages sent to the Discord server where it is added.
 
-En accédant ou en utilisant le Service, vous acceptez d'être lié par ces Conditions. Si vous êtes en désaccord avec une partie quelconque des conditions, alors vous ne pouvez pas accéder au Service.
+## Data Usage
 
+Feur Bot uses the messages it reads to provide the following features:
+- Automatically reply to messages containing "what" with "feur".
+- Send attachments in response to specific messages like "quoicoubeh".
 
-Feur Bot est un bot Discord conçu pour répondre aux messages contenant "quoi" par "feur" et pour envoyer des pièces jointes en réponse à des messages spécifiques comme "quoicoubeh". Pour fournir ces fonctionnalités, Feur Bot doit être capable de lire tous les messages envoyés sur le serveur où il a été ajouté.
+These messages are processed in real time and are not stored by us. No personal information is collected, stored or shared by Feur Bot.
 
-En utilisant notre Service, vous acceptez de :
+# Data Security
 
-Ne pas utiliser le Service à des fins illégales ou non autorisées.
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-Ne pas perturber ou interférer avec le Service ou les serveurs connectés au Service.
+# Data Disclosure
 
-Ne pas utiliser le Service pour harceler, abuser ou nuire à autrui.
+## Legal Requirements
 
-Feur Bot ne collecte pas de données personnelles des utilisateurs. Il lit les messages sur les serveurs pour fournir des réponses automatiques, mais ces informations ne sont ni stockées ni partagées avec des tiers.
+We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:
+- Comply with a legal obligation
+- Protect and defend the rights or property of [Your Name or Company Name]
+- Prevent or investigate possible wrongdoing in connection with the Service
+- Protect the personal safety of users of the Service or the public
+- Protect against legal liability
 
+# Links to Other Sites
 
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Please note that these external sites are not operated by us. Therefore, we strongly advise you to review the privacy policies of these websites. We have no control over and assume no responsibility for their privacy policies.
 
-Tout le contenu partagé via Feur Bot reste la propriété de l'utilisateur qui l'a créé. Nous ne revendiquons aucun droit de propriété sur votre contenu.
+# Changes to this Privacy Policy
 
-Responsabilité du Contenu
+We reserve the right to update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Vous êtes seul responsable du contenu que vous partagez via le Service. En utilisant le Service, vous acceptez de ne pas partager de contenu illégal, offensant, ou violant les droits d'autrui.
+# Contact Us
 
-Suspension et Résiliation
-Nous nous réservons le droit de suspendre ou de résilier l'accès au Service immédiatement, sans préavis ni responsabilité, pour quelque raison que ce soit, y compris sans limitation si vous violez les Conditions.
+If you have any questions about this Privacy Policy, please contact us at [contact.feurbot@gmailcom].
 
-Limitation de Responsabilité
-En aucun cas, Feur Bot inc, ni ses directeurs, employés, partenaires, agents, fournisseurs ou affiliés, ne seront responsables des dommages indirects, accidentels, spéciaux, consécutifs ou punitifs, y compris sans limitation, perte de profits, données, utilisation, goodwill, ou autres pertes intangibles, résultant de (i) votre utilisation ou accès ou incapacité à utiliser le Service; (ii) tout comportement ou contenu d'un tiers sur le Service; (iii) tout contenu obtenu du Service; et (iv) l'accès, l'utilisation ou l'altération non autorisés de vos transmissions ou contenu, que ce soit basé sur une garantie, un contrat, un délit (y compris la négligence) ou toute autre théorie juridique, que nous ayons été informés ou non de la possibilité de tels dommages, et même si un remède énoncé ici s'avère avoir échoué dans son but essentiel.
-
-Contactez-nous
-Si vous avez des questions sur ces Conditions, veuillez nous contacter à contact.feurbot@gmail.com 
-
-En utilisant le Service, vous confirmez avoir lu, compris et accepté ces conditions. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre Service.
+By using our Service, you consent to our Privacy Policy.
