@@ -29,10 +29,6 @@ Nous pouvons divulguer vos informations personnelles si cela est requis par la l
 - Se conformer à une obligation légale
 - Se protéger contre la responsabilité juridique
 
-# Liens vers d'autres Sites
-
-Notre Service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par nous. Par conséquent, nous vous conseillons vivement de consulter la politique de confidentialité de ces sites web. Nous n'avons aucun contrôle sur ces sites et n'assumons aucune responsabilité pour leurs politiques de confidentialité.
-
 # Modifications de cette Politique de Confidentialité
 
 Nous nous réservons le droit de mettre à jour notre Politique de Confidentialité de temps à autre. Nous vous informerons de toute modification en publiant la nouvelle Politique de Confidentialité sur cette page. Il vous est conseillé de consulter cette Politique de Confidentialité périodiquement pour prendre connaissance de toute modification. Les modifications à cette Politique de Confidentialité sont effectives lorsqu'elles sont publiées sur cette page.
