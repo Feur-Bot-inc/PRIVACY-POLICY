@@ -21,10 +21,6 @@ Feur Bot utilise les messages qu'il lit pour fournir les fonctionnalités suivan
 
 Ces messages sont traités en temps réel et ne sont pas stockés par nous. Aucune information personnelle n'est collectée, stockée ou partagée par Feur Bot.
 
-# Sécurité des Données
-
-La sécurité de vos données est importante pour nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet, ni méthode de stockage électronique n'est 100% sécurisée. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos données personnelles, nous ne pouvons garantir leur sécurité absolue.
-
 # Divulgation de Données
 
 ## Exigences Légales
