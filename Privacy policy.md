@@ -30,7 +30,6 @@ The security of your data is important to us, but remember that no method of tra
 
 We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to:
 - Comply with a legal obligation
-- Protect and defend the rights or property of [Your Name or Company Name]
 - Prevent or investigate possible wrongdoing in connection with the Service
 - Protect the personal safety of users of the Service or the public
 - Protect against legal liability
