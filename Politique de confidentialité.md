@@ -31,7 +31,6 @@ La sécurité de vos données est importante pour nous, mais rappelez-vous qu'au
 
 Nous pouvons divulguer vos informations personnelles si cela est requis par la loi ou si nous pensons de bonne foi qu'une telle action est nécessaire pour :
 - Se conformer à une obligation légale
-- Protéger et défendre les droits ou la propriété de [Votre Nom ou Nom de l'entreprise]
 - Prévenir ou enquêter sur de possibles actes répréhensibles en relation avec le Service
 - Protéger la sécurité personnelle des utilisateurs du Service ou du public
 - Se protéger contre la responsabilité juridique
