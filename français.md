@@ -1,5 +1,5 @@
 # Politique de Confidentialité de Feur Bot
-
+ 
 
 __Feur Bot inc__ exploite le bot Discord Feur Bot.
 
