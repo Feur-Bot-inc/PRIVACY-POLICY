@@ -15,7 +15,7 @@ We do not collect any personally identifiable information about Feur Bot users. 
 ## Data Usage
 
 Feur Bot uses the messages it reads to provide the following features:
-- Automatically reply to messages containing "what" with "feur".
+- Automatically reply to messages containing "quoi" with "feur".
 - Send attachments in response to specific messages like "quoicoubeh".
 
 These messages are processed in real time and are not stored by us. No personal information is collected, stored or shared by Feur Bot.
